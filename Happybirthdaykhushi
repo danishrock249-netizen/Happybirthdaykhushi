@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday Khushi ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">K<span>♡</span>V</div>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="letter.html">Love Letter</a>
+      <a href="punjab-himachal.html">Our Roots</a>
+      <a href="wishes.html">Wishes</a>
+      <a href="surprise.html">Surprise 🎁</a>
+    </nav>
+  </header>
+
+  <main class="hero">
+    <p class="eyebrow">A little website, a whole lot of love</p>
+
+    <h1>Happy Birthday,<br>
+      <span>Khushi</span> 💗
+    </h1>
+
+    <p class="message">
+      To the girl who makes ordinary days feel magical.
+      You are my favourite smile, my happiness, and my special person.
+    </p>
+
+    <p class="signature">With all my love, <strong>Vinay</strong> ✨</p>
+
+    <div class="buttons">
+      <a class="btn" href="letter.html">Open Your Love Letter 💌</a>
+      <a class="btn secondary" href="surprise.html">Your Surprise 🎁</a>
+    </div>
+
+    <div class="heart-card">
+      <div class="heart">♥</div>
+      <h2>Khushi</h2>
+      <p>Punjab di kudi × Himachali pyaar</p>
+    </div>
+  </main>
+
+  <footer>
+    Made with endless love by Vinay, just for Khushi ♥
+  </footer>
+</body>
+</html>
